@@ -52,3 +52,7 @@
         bottom: 0;
         width: 100%;
     }
+
+    .mt-6 {
+        margin-top: 2.5rem;
+    }
